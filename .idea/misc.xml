@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/FaceRecognition" />
+    <file type="web" url="file://$PROJECT_DIR$/JSPServletJavaBean" />
+    <file type="web" url="file://$PROJECT_DIR$/JSPServletJavaBean2" />
+    <file type="web" url="file://$PROJECT_DIR$/JSPServletJavaBeanDurid" />
+    <file type="web" url="file://$PROJECT_DIR$/Music" />
+    <file type="web" url="file://$PROJECT_DIR$/MyFirstSpringBoot" />
+    <file type="web" url="file://$PROJECT_DIR$/OnlinePay" />
+    <file type="web" url="file://$PROJECT_DIR$/SpeechToSong" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringBoot" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringMVC" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPServletJavaBean/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/SprintBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/SVNCheckSpringBoot/pom.xml" />
+        <option value="$PROJECT_DIR$/OnlinePay/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/DruidJSPJavaBeanServlet/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPJavaBeanServlet/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPServletJavaBean2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

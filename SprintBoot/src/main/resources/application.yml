@@ -1,0 +1,21 @@
+spring:
+  # \u914D\u7F6Emysql\u6570\u636E\u5E93\uFF0Cspringbootdemodat\u4E3A\u6211\u7684\u6570\u636E\u5E93\u540D\u79F0
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/myweb
+    username: root
+    password: 111111
+    driver-class-name: com.mysql.jdbc.Driver
+
+  # \u914D\u7F6Ethymeleaf\uFF0C\u8FD9\u91CC\u5728templates\u6587\u4EF6\u5939\u4E0B\u653Ehtml\u6587\u4EF6
+  thymeleaf:
+    prefix: classpath:/templates/
+    check-template-location: true
+    suffix: .html
+    mode: HTML
+    encoding: UTF-8
+    cache: false
+
+# spring\u96C6\u6210Mybatis\u73AF\u5883
+# \u52A0\u8F7DMybatis\u6620\u5C04\u6587\u4EF6
+mybatis:
+  mapper-locations: classpath*:mapper/*.xml

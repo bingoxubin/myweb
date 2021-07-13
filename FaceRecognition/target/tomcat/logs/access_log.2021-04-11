@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:12:40:21 +0800] "GET /FaceRecognition/v1/user/add HTTP/1.1" 200 33 http-bio-8080-exec-1 456
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:12:40:21 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:12:42:05 +0800] "GET /FaceRecognition/v1/user/count HTTP/1.1" 500 1627 http-bio-8080-exec-5 14
+0:0:0:0:0:0:0:1 - - [11/Apr/2021:12:42:20 +0800] "GET /FaceRecognition/v1/user/update HTTP/1.1" 200 34 http-bio-8080-exec-6 8

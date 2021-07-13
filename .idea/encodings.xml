@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/FaceRecognition/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/FaceRecognition/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSPServletJavaBean/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSPServletJavaBeanDurid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JSPServletJavaBeanDurid/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyFirstSpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyFirstSpringBoot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyFirstSpringBoot/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlinePay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/OnlinePay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SVNCheckSpringBoot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpeechToSong/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringMVC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SprintBoot/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

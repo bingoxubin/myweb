@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Mar/2021:20:05:20 +0800] "GET /JSPServletJavaBeanDurid/register.jsp HTTP/1.1" 200 1674 http-bio-8080-exec-1 693
+0:0:0:0:0:0:0:1 - - [22/Mar/2021:20:08:19 +0800] "POST /JSPServletJavaBeanDurid/RegisterServlet HTTP/1.1" 200 138 http-bio-8080-exec-4 601
+0:0:0:0:0:0:0:1 - - [22/Mar/2021:20:08:37 +0800] "GET /JSPServletJavaBeanDurid/login.jsp HTTP/1.1" 200 366 http-bio-8080-exec-6 57
+0:0:0:0:0:0:0:1 - - [22/Mar/2021:20:08:46 +0800] "POST /JSPServletJavaBeanDurid/LoginServlet HTTP/1.1" 200 593 http-bio-8080-exec-7 90

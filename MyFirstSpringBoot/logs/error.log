@@ -1,0 +1,7 @@
+2021-04-20 10:00:14  [ http-nio-8080-exec-1:2 ] - [ ERROR ]  im error
+[ERROR] 2021-04-20 10:17:29,229 method:com.bingoabin.controller.UserController.hello(UserController.java:19)
+im error
+[ERROR] 2021-04-20 12:51:38,986 method:com.bingoabin.controller.UserController.hello(UserController.java:19)
+im error
+[ERROR] 2021-04-20 13:12:38,951 method:com.bingoabin.controller.UserController.hello(UserController.java:19)
+im error

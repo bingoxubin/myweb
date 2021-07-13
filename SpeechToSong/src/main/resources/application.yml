@@ -1,0 +1,4 @@
+# 静态资源都在static文件夹中，此处配置告知springMVC可以访问指定静态资源
+spring:
+  thymeleaf:
+    prefix: classpath:/static/

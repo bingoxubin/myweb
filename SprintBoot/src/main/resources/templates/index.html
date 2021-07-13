@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<H3>查询测试：</H3>
+<h7 th:text="${list}"></h7><HR>
+<H3>注册测试：</H3>
+<form method="post" action="/insert">
+    用户：<input type="text" name="username"><br>
+    密码：<input type="text" name="PASSWORD"><br>
+    <input type="submit" value="注册"><hr>
+</form>
+<H3>登录测试：</H3>
+<form method="post" action="/login">
+    用户：<input type="text" name="username"><br>
+    密码：<input type="text" name="PASSWORD"><br>
+    <input type="submit" value="登录"><hr>
+</form>
+</body>
+</html>
