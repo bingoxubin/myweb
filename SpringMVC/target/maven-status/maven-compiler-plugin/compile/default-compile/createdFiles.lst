@@ -1,0 +1,8 @@
+com/bingoabin/controller/dao/IUserDao.class
+com/bingoabin/controller/domain/User.class
+com/bingoabin/controller/service/IUserService.class
+com/bingoabin/controller/service/UserService.class
+com/bingoabin/controller/test/MybatisTest.class
+com/bingoabin/controller/test/SpringTest.class
+com/bingoabin/controller/dao/UserDao.class
+com/bingoabin/controller/controller/UserController.class

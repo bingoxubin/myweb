@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JSPServletJavaBeanDurid" />
+        <module name="SpringBootMybatis" />
         <module name="SpeechToSong" />
         <module name="SprintBoot" />
         <module name="SpringMVC" />
@@ -24,6 +25,7 @@
       <module name="JSPServletJavaBean2" target="1.8" />
       <module name="Music" target="1.8" />
       <module name="ServletJavaBean" target="1.8" />
+      <module name="SpringBootMybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

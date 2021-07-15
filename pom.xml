@@ -12,7 +12,6 @@
         <module>JSPServletJavaBean</module>
         <module>JSPServletJavaBeanDurid</module>
         <module>SpringMVC</module>
-        <module>SprintBoot</module>
         <module>SVNCheckSpringBoot</module>
         <module>FaceRecognition</module>
         <module>MyFirstSpringBoot</module>
