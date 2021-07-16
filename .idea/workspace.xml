@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/MybatisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/MybatisApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/service/UserService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpringbootMybatis/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,9 @@
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -280,7 +281,7 @@
       <workItem from="1626145859553" duration="632000" />
       <workItem from="1626230413612" duration="976000" />
       <workItem from="1626342402547" duration="7095000" />
-      <workItem from="1626353301777" duration="9359000" />
+      <workItem from="1626353301777" duration="9583000" />
     </task>
     <servers />
   </component>

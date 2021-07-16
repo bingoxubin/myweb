@@ -15,8 +15,6 @@
     <insert id="addUser" parameterType="User">
         insert into user(id, username, password)
         values (#{id}, #{username}, #{password})
-
-
     </insert>
 
     <delete id="deleteUserById" parameterType="int">
