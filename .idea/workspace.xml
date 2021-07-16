@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/JSPServletJavaBean.war" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/JSPServletJavaBean.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/SESSIONS.ser" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/SESSIONS.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/message_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/message_jsp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/register_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/register_jsp.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/MybatisApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringbootMybatis/src/test/java/com/bingoabin/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +100,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19378577" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
@@ -129,7 +127,7 @@
       <recent name="com.bingoabin.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MainApplication">
+  <component name="RunManager" selected="Spring Boot.MybatisApplication">
     <configuration name="Begin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bingoabin.Begin" />
@@ -208,6 +206,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringbootMybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bingoabin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bingoabin.MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringBoot" />
       <extension name="coverage">
@@ -235,9 +246,11 @@
       <item itemvalue="Spring Boot.Begin" />
       <item itemvalue="Spring Boot.MainApplication" />
       <item itemvalue="Spring Boot.SpringbootApplication (1)" />
+      <item itemvalue="Spring Boot.MybatisApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MybatisApplication" />
         <item itemvalue="Spring Boot.MainApplication" />
         <item itemvalue="Spring Boot.SpringbootApplication (1)" />
         <item itemvalue="Application.Begin" />
@@ -275,7 +288,7 @@
       <workItem from="1626145859553" duration="632000" />
       <workItem from="1626230413612" duration="976000" />
       <workItem from="1626342402547" duration="7095000" />
-      <workItem from="1626353301777" duration="5075000" />
+      <workItem from="1626353301777" duration="8610000" />
     </task>
     <servers />
   </component>

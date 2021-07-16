@@ -1,0 +1,6 @@
+com/bingoabin/controller/UserController.class
+com/bingoabin/entity/User.class
+com/bingoabin/service/UserSerivceImpl.class
+com/bingoabin/MybatisApplication.class
+com/bingoabin/service/UserService.class
+com/bingoabin/mapper/UserMapper.class

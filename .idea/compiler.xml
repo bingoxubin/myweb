@@ -13,6 +13,7 @@
         <module name="SpringMVC" />
         <module name="SVNCheckSpringBoot" />
         <module name="FaceRecognition" />
+        <module name="SpringbootMybatis" />
         <module name="SpringBoot" />
         <module name="JSPServletJavaBean" />
         <module name="MyFirstSpringBoot" />
@@ -36,6 +37,7 @@
       <module name="SVNCheckSpringBoot" options="-parameters" />
       <module name="SpeechToSong" options="-parameters" />
       <module name="SpringBoot" options="-parameters" />
+      <module name="SpringbootMybatis" options="-parameters" />
       <module name="SprintBoot" options="-parameters" />
     </option>
   </component>

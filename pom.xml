@@ -16,6 +16,7 @@
         <module>FaceRecognition</module>
         <module>MyFirstSpringBoot</module>
         <module>SpeechToSong</module>
+        <module>SpringbootMybatis</module>
     </modules>
 
     <properties>
