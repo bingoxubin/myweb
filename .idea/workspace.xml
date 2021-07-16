@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MyFirstSpringBoot/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstSpringBoot/src/main/resources/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFirstSpringBoot/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MyFirstSpringBoot/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/SpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/SpringbootApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/dao/IUserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/dao/IUserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/service/IUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/controller/springboot/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/JSPServletJavaBean.war" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/JSPServletJavaBean.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/logging.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/tomcat-users.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/conf/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/SESSIONS.ser" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/SESSIONS.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.class" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/login_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/message_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/message_jsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/register_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSPServletJavaBean/target/tomcat/work/Tomcat/localhost/JSPServletJavaBean/org/apache/jsp/register_jsp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +102,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.19378577" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
@@ -126,7 +129,7 @@
       <recent name="com.bingoabin.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootApplication (1)">
+  <component name="RunManager" selected="Spring Boot.MainApplication">
     <configuration name="Begin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bingoabin.Begin" />
@@ -189,6 +192,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SVNCheckSpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epoint.bigdata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.epoint.bigdata.MainApplication" />
+      <option name="ACTIVE_PROFILES" value="tomcat7:run" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringBoot" />
       <extension name="coverage">
@@ -209,8 +228,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Begin" />
+      <item itemvalue="JUnit.All in JSPServletJavaBean" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+      <item itemvalue="Spring Boot.Begin" />
+      <item itemvalue="Spring Boot.MainApplication" />
+      <item itemvalue="Spring Boot.SpringbootApplication (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MainApplication" />
         <item itemvalue="Spring Boot.SpringbootApplication (1)" />
         <item itemvalue="Application.Begin" />
         <item itemvalue="Spring Boot.Begin" />
@@ -247,7 +275,7 @@
       <workItem from="1626145859553" duration="632000" />
       <workItem from="1626230413612" duration="976000" />
       <workItem from="1626342402547" duration="7095000" />
-      <workItem from="1626353301777" duration="2675000" />
+      <workItem from="1626353301777" duration="5075000" />
     </task>
     <servers />
   </component>
