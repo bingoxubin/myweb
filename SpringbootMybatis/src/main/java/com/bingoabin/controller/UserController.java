@@ -23,13 +23,11 @@ public class UserController {
 	@GetMapping("/findall")
 	List<User> findall() {
 		System.out.println("findall");
-
 		return userService.findAll();
 	}
 
 	@GetMapping("/findByid")
 	User findByid() {
-
 		int id = 1;
 		return userService.findUserById(id);
 	}
@@ -45,24 +43,16 @@ public class UserController {
 
 	@GetMapping("/deleteUserById")
 	boolean deleteUserById() {
-
 		int id = 1;
 		return userService.deleteUserById(id);
 	}
 
-	;
-
 	@GetMapping("/updateUser")
 	boolean updateUser() {
-
 		User user = new User();
 		user.setId(100);
 		user.setUsername("root");
 		user.setPassword("root_password");
-
 		return userService.updateUser(user);
 	}
-
-	;
-
 }
