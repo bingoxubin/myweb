@@ -1,4 +1,4 @@
-package com.bingoabin.controller.springboot.domain;
+package com.bingoabin.springboot.domain;
 
 /**
  * @author xubin03

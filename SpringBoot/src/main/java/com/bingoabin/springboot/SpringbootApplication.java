@@ -1,4 +1,4 @@
-package com.bingoabin.controller.springboot;
+package com.bingoabin.springboot;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;

@@ -1,6 +1,6 @@
-package com.bingoabin.controller.springboot.dao;
+package com.bingoabin.springboot.dao;
 
-import com.bingoabin.controller.springboot.domain.User;
+import com.bingoabin.springboot.domain.User;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Select;
 

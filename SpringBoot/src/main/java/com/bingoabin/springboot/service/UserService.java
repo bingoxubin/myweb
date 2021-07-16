@@ -1,7 +1,7 @@
-package com.bingoabin.controller.springboot.service;
+package com.bingoabin.springboot.service;
 
-import com.bingoabin.controller.springboot.domain.User;
-import com.bingoabin.controller.springboot.dao.IUserDao;
+import com.bingoabin.springboot.domain.User;
+import com.bingoabin.springboot.dao.IUserDao;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

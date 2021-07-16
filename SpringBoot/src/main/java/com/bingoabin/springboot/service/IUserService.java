@@ -1,6 +1,6 @@
-package com.bingoabin.controller.springboot.service;
+package com.bingoabin.springboot.service;
 
-import com.bingoabin.controller.springboot.domain.User;
+import com.bingoabin.springboot.domain.User;
 
 import java.util.List;
 

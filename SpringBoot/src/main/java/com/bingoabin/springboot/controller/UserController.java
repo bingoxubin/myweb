@@ -1,7 +1,7 @@
-package com.bingoabin.controller.springboot.controller;
+package com.bingoabin.springboot.controller;
 
-import com.bingoabin.controller.springboot.domain.User;
-import com.bingoabin.controller.springboot.service.IUserService;
+import com.bingoabin.springboot.domain.User;
+import com.bingoabin.springboot.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
