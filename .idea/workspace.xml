@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringbootMybatis/src/main/java/com/bingoabin/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringbootMybatis/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringbootMybatis/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,7 @@
       <recent name="com.bingoabin.bean" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.MybatisApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootApplication (1)">
     <configuration name="Begin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.bingoabin.Begin" />
@@ -142,15 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -244,9 +242,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SpringbootApplication (1)" />
         <item itemvalue="Spring Boot.MybatisApplication" />
         <item itemvalue="Spring Boot.MainApplication" />
-        <item itemvalue="Spring Boot.SpringbootApplication (1)" />
         <item itemvalue="Application.Begin" />
         <item itemvalue="Spring Boot.Begin" />
       </list>
@@ -282,7 +280,8 @@
       <workItem from="1626145859553" duration="632000" />
       <workItem from="1626230413612" duration="976000" />
       <workItem from="1626342402547" duration="7095000" />
-      <workItem from="1626353301777" duration="9646000" />
+      <workItem from="1626353301777" duration="11374000" />
+      <workItem from="1626749822524" duration="2089000" />
     </task>
     <servers />
   </component>
