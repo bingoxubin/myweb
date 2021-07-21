@@ -61,7 +61,7 @@ public class LoginController {
 	@RequestMapping(value = "/loginbypost1", method = {RequestMethod.POST, RequestMethod.GET})
 	public String loginByPost1(User user) {
 		if (null != user) {
-			return user.getUsername() + " " + user.getPASSWORD();
+			return user.getUsername() + " " + user.getPassword();
 		} else {
 			return "error";
 		}
@@ -71,7 +71,7 @@ public class LoginController {
 	@RequestMapping(value = "/loginbypost2", method = {RequestMethod.POST, RequestMethod.GET})
 	public String loginByPost2(@RequestBody User user) {
 		if (null != user) {
-			return user.getUsername() + " " + user.getPASSWORD();
+			return user.getUsername() + " " + user.getPassword();
 		} else {
 			return "error";
 		}

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="" />
+    <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,6 +283,8 @@
       <workItem from="1626342402547" duration="7095000" />
       <workItem from="1626353301777" duration="11374000" />
       <workItem from="1626749822524" duration="2160000" />
+      <workItem from="1626840264720" duration="1009000" />
+      <workItem from="1626859362617" duration="3136000" />
     </task>
     <servers />
   </component>
@@ -309,6 +315,11 @@
           <url>file://$PROJECT_DIR$/FaceRecognition/src/main/java/com/bingoabin/controller/service/UserService.java</url>
           <line>21</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/LoginController.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
