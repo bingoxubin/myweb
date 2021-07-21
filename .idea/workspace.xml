@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot/src/main/java/com/bingoabin/springboot/controller/UserController.java" afterDir="false" />
-    </list>
+    <list default="true" id="8022be43-7895-4be5-9f07-9261666388fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -281,7 +278,7 @@
       <workItem from="1626230413612" duration="976000" />
       <workItem from="1626342402547" duration="7095000" />
       <workItem from="1626353301777" duration="11374000" />
-      <workItem from="1626749822524" duration="2089000" />
+      <workItem from="1626749822524" duration="2160000" />
     </task>
     <servers />
   </component>
