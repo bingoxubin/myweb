@@ -1,8 +1,8 @@
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/test/SpringTest.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/dao/UserDao.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/service/IUserService.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/service/UserService.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/controller/UserController.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/domain/User.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/test/MybatisTest.java
-/Users/xubin34/project/MyWeb/SpringMVC/src/main/java/com/bingoabin/controller/dao/IUserDao.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\domain\User.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\dao\UserDao.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\service\UserService.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\controller\UserController.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\service\IUserService.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\test\MybatisTest.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\test\SpringTest.java
+F:\project\MyWeb\SpringMVC\src\main\java\com\bingoabin\controller\dao\IUserDao.java
