@@ -1,3 +1,4 @@
+com\bingoabin\service\UserServiceImpl.class
 com\bingoabin\MybatisApplication.class
 com\bingoabin\mapper\UserMapper.class
 com\bingoabin\controller\UserController.class
