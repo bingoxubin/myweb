@@ -1,5 +1,5 @@
-com/bingoabin/controller/servlet/RegisterServlet.class
-com/bingoabin/controller/dao/UserDao.class
-com/bingoabin/controller/util/DataBaseUtil.class
-com/bingoabin/controller/servlet/LoginServlet.class
-com/bingoabin/controller/bean/User.class
+com\bingoabin\controller\servlet\RegisterServlet.class
+com\bingoabin\controller\util\DataBaseUtil.class
+com\bingoabin\controller\dao\UserDao.class
+com\bingoabin\controller\bean\User.class
+com\bingoabin\controller\servlet\LoginServlet.class

@@ -30,7 +30,7 @@ info:
     name: 127.0.0.1
     description: MyFirstSpringBoot
     version: 1.0-SNAPSHOT
-    java.version: 1.8.0_291
+    java.version: 1.8.0_65
 
 spring.mvc.view.prefix: /
 #配置application.properties支持jsp
