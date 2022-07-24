@@ -3,7 +3,7 @@ spring:
     url: jdbc:mysql://127.0.0.1:3306/myweb
     username: root
     password: 111111
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
 
   thymeleaf:
     prefix: classpath:/templates/
